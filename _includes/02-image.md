@@ -1,1 +1,1 @@
-![Image of Laverden](profile.png)
+![Image of Laverden](https://laverden.github.io/markdown-portfolio/_includes/profile.png)
